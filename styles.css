@@ -1,0 +1,30 @@
+*{
+    margin:50px;
+   
+
+}
+.karan{
+    background-color: black;
+    height:800px;
+    width:500px;
+}
+.src{
+    
+    height:350px;
+    width:450px;
+    border: 3px solid yellow;
+    margin:10px;
+
+    
+}
+p{
+    color:white;
+}
+
+.Radhe{
+font-family: 'Dancing Script', cursive;
+color:yellow;
+font-size: 30px;
+font-weight: 900;
+text-align: center;
+}
